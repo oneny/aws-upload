@@ -1,0 +1,12 @@
+{
+  "name": "aws-upload",
+  "version": "1.0.0",
+  "description": "Lambda 이미지 리사이징",
+  "main": "index.js",
+  "author": "oneny",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1116.0",
+    "sharp": "^0.30.3"
+  }
+}
